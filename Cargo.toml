@@ -1,0 +1,12 @@
+[package]
+name = "hydro_server"
+version = "0.1.0"
+authors = ["pi"]
+edition = "2018"
+
+[lib]
+name = "hydro_services"
+path = "hydro_services/src/lib.rs"
+
+[dependencies]
+rascam = "0.0.2"
