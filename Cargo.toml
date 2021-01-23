@@ -10,3 +10,4 @@ path = "hydro_services/src/lib.rs"
 
 [dependencies]
 rascam = "0.0.2"
+rppal = "0.11.3"
